@@ -1,0 +1,16 @@
+{
+  "name": "My Web App",
+  "short_name": "WebApp",
+  "description": "An installable web app",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
